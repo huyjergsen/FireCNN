@@ -1,0 +1,14 @@
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/Fire/5.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/no-Fire/3.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/no-Fire/4.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/no-Fire/5.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/no-Fire/6.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/no-Fire/7.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/no-Fire/8.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/Fire/2.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/Fire/3.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/Fire/4.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/Fire/5.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/Fire/6.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/Fire/7.txt
+/home/quoc/Projects/top_KLTN/Dataset/dataset_hex/test/Fire/8.txt
